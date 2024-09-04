@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresAndAlgorithms
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresAndAlgorithms.Tests", "DataStructuresAndAlgorithms.Tests\DataStructuresAndAlgorithms.Tests.csproj", "{1ED5B5AD-0D9A-4037-9517-298DAB1AD453}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresAndAlgorithms.Performance", "DataStructuresAndAlgorithms.Performance\DataStructuresAndAlgorithms.Performance.csproj", "{880C9E1A-1716-4782-A7B5-111CCF187954}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,5 +30,9 @@ Global
 		{1ED5B5AD-0D9A-4037-9517-298DAB1AD453}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ED5B5AD-0D9A-4037-9517-298DAB1AD453}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ED5B5AD-0D9A-4037-9517-298DAB1AD453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{880C9E1A-1716-4782-A7B5-111CCF187954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880C9E1A-1716-4782-A7B5-111CCF187954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880C9E1A-1716-4782-A7B5-111CCF187954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880C9E1A-1716-4782-A7B5-111CCF187954}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
