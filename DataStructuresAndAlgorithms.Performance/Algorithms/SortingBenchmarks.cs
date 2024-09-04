@@ -2,7 +2,6 @@
 
 namespace DataStructuresAndAlgorithms.Performance.Algorithms;
 
-[SimpleJob(iterationCount: 5, warmupCount: 0, launchCount: 0)]
 public class SortingBenchmarks
 {
     private readonly Random random = new(42);
